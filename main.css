@@ -1,0 +1,12 @@
+.main ul {
+  list-style: none;
+  color: white;
+  display: inline-block;
+}
+
+ul li {
+  display: inline-block;
+}
+li div {
+  background: green;
+}
